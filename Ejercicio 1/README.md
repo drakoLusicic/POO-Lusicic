@@ -300,29 +300,6 @@ Los archivos JSON se almacenan automáticamente en la carpeta `data/` junto al e
 ]
 ```
 
----
-
-## 📸 Capturas Requeridas para la Entrega
-
-### 1. **Pantalla de Login**
-- Mostrar formulario con usuario/contraseña
-- Validación con credenciales `admin/admin`
-
-### 2. **Tablero con Filtros**
-- Vista en grilla con trabajos
-- Filtros activos (estado y prioridad)
-- Botones de acción visibles
-
-### 3. **Editor con Estado Guardado**
-- Abrir editor de notas
-- Escribir contenido
-- Mostrar "Guardar Notas" completado
-- Indicador visual de éxito
-
-### 4. **Historial Visible**
-- Mostrar panel de historial en el tablero
-- Listar acciones realizadas con timestamps
-- Filtrado funcional
 
 ---
 
@@ -411,4 +388,4 @@ Fecha: 2024
 
 ---
 
-**¡Listo para entregar! 🚀**
+
