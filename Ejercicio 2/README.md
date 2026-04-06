@@ -412,29 +412,7 @@ Ejemplo de historial:
 - ✔️ **Configuración** - URL, intervalo, umbrales editables
 - ✔️ **Clase ServerMonitor** - Lógica desacoplada de UI
 
----
 
-## 📸 Capturas Requeridas para la Entrega
-
-### 1. **Panel de Monitoreo Activo**
-- Mostrar todas las métricas (CPU, RAM, Disco)
-- ProgressBars con valores porcentuales
-- Indicador de estado verde (OK)
-
-### 2. **Panel de Configuración**
-- URL configurada
-- Intervalos y umbrales visibles
-- Botones de acción funcionales
-
-### 3. **Historial de Eventos**
-- Múltiples eventos listados
-- Colores por severidad visibles
-- Timestamps exactos
-
-### 4. **Alerta Activada**
-- Estado en rojo/amarillo
-- Evento en historial con warning
-- Badge actualizado
 
 ---
 
@@ -566,4 +544,4 @@ Fecha: 2024
 
 ---
 
-**¡Listo para entregar! 🚀**
+
