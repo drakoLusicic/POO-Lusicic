@@ -1,0 +1,15 @@
+debug/main.o
+debug/apiclient.o
+debug/logindialog.o
+debug/mainwindow.o
+debug/kanbanboard.o
+debug/columnwidget.o
+debug/cardwidget.o
+debug/carddialog.o
+debug/moc_apiclient.o
+debug/moc_logindialog.o
+debug/moc_mainwindow.o
+debug/moc_kanbanboard.o
+debug/moc_columnwidget.o
+debug/moc_cardwidget.o
+debug/moc_carddialog.o

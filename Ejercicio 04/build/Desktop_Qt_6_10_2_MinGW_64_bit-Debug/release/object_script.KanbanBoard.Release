@@ -1,0 +1,15 @@
+release/main.o
+release/apiclient.o
+release/logindialog.o
+release/mainwindow.o
+release/kanbanboard.o
+release/columnwidget.o
+release/cardwidget.o
+release/carddialog.o
+release/moc_apiclient.o
+release/moc_logindialog.o
+release/moc_mainwindow.o
+release/moc_kanbanboard.o
+release/moc_columnwidget.o
+release/moc_cardwidget.o
+release/moc_carddialog.o
