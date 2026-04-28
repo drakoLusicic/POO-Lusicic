@@ -1,0 +1,14 @@
+debug/authmanager.o
+debug/historymanager.o
+debug/loginwidget.o
+debug/main.o
+debug/mainwidget.o
+debug/noteeditor.o
+debug/workmanager.o
+debug/workboardwidget.o
+debug/workdialog.o
+debug/moc_loginwidget.o
+debug/moc_mainwidget.o
+debug/moc_noteeditor.o
+debug/moc_workboardwidget.o
+debug/moc_workdialog.o
