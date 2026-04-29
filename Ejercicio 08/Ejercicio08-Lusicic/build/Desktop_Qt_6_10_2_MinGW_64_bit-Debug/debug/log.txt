@@ -1,0 +1,67 @@
+2026-04-27 17:58:38 - Login: Login exitoso
+2026-04-27 17:58:38 - Editor: Cambio de lenguaje a C++
+2026-04-27 17:58:38 - Editor: Redimensionar ventana
+2026-04-27 17:58:38 - Editor: Redimensionar ventana
+2026-04-27 18:00:20 - Editor: Exportación a JPG
+2026-04-27 18:00:53 - Editor: Clic del mouse en editor
+2026-04-27 18:00:54 - Editor: Clic del mouse en editor
+2026-04-27 18:00:55 - Editor: Clic del mouse en editor
+2026-04-27 18:00:58 - Editor: Clic del mouse en editor
+2026-04-27 18:00:59 - Editor: Clic del mouse en editor
+2026-04-27 18:00:59 - Editor: Clic del mouse en editor
+2026-04-27 18:00:59 - Editor: Clic del mouse en editor
+2026-04-27 18:00:59 - Editor: Clic del mouse en editor
+2026-04-27 18:00:59 - Editor: Clic del mouse en editor
+2026-04-27 18:01:00 - Editor: Clic del mouse en editor
+2026-04-27 18:15:31 - Login: Intento fallido: admins
+2026-04-27 18:15:33 - Login: Intento fallido: admins
+2026-04-27 18:15:34 - Login: Intento fallido: admins
+2026-04-27 18:16:10 - Login: Intento fallido: admin
+2026-04-27 18:16:14 - Login: Login exitoso
+2026-04-27 18:16:14 - Editor: Cambio de lenguaje a C++
+2026-04-27 18:16:14 - Editor: Redimensionar ventana
+2026-04-27 18:16:14 - Editor: Redimensionar ventana
+2026-04-27 18:16:20 - Editor: Cambio de lenguaje a Python
+2026-04-27 18:16:22 - Editor: Cambio de lenguaje a Java
+2026-04-27 18:19:35 - Login: Login exitoso
+2026-04-27 18:19:35 - Editor: Cambio de lenguaje a C++
+2026-04-27 18:19:35 - Editor: Redimensionar ventana
+2026-04-27 18:19:35 - Editor: Redimensionar ventana
+2026-04-27 19:51:00 - Login: Login exitoso
+2026-04-27 19:51:00 - Editor: Cambio de lenguaje a C++
+2026-04-27 19:51:00 - Editor: Redimensionar ventana
+2026-04-27 19:51:00 - Editor: Redimensionar ventana
+2026-04-27 19:51:11 - Editor: Clic del mouse en editor
+2026-04-27 19:51:12 - Editor: Clic del mouse en editor
+2026-04-27 20:01:00 - Login: Login exitoso
+2026-04-27 20:01:01 - Editor: Cambio de lenguaje a C++
+2026-04-27 20:01:01 - Editor: Redimensionar ventana
+2026-04-27 20:01:01 - Editor: Redimensionar ventana
+2026-04-27 20:01:04 - Editor: Clic del mouse en editor
+2026-04-27 20:01:14 - Editor: Clic del mouse en editor
+2026-04-27 20:52:20 - Login: Login exitoso
+2026-04-27 20:52:20 - Editor: Cambio de lenguaje a C++
+2026-04-27 20:52:20 - Editor: Redimensionar ventana
+2026-04-27 20:52:20 - Editor: Redimensionar ventana
+2026-04-27 20:52:22 - Editor: Clic del mouse en editor
+2026-04-27 20:52:22 - Editor: Clic del mouse en editor
+2026-04-27 20:52:23 - Editor: Clic del mouse en editor
+2026-04-27 20:52:23 - Editor: Clic del mouse en editor
+2026-04-27 20:52:23 - Editor: Clic del mouse en editor
+2026-04-27 20:52:23 - Editor: Clic del mouse en editor
+2026-04-27 20:54:40 - Login: Login exitoso
+2026-04-27 20:54:40 - Editor: Cambio de lenguaje a C++
+2026-04-27 20:54:40 - Editor: Redimensionar ventana
+2026-04-27 20:54:40 - Editor: Redimensionar ventana
+2026-04-27 20:54:52 - Editor: Clic del mouse en editor
+2026-04-27 20:54:52 - Editor: Clic del mouse en editor
+2026-04-27 20:54:53 - Editor: Clic del mouse en editor
+2026-04-27 20:54:53 - Editor: Clic del mouse en editor
+2026-04-27 20:54:53 - Editor: Clic del mouse en editor
+2026-04-27 20:54:53 - Editor: Clic del mouse en editor
+2026-04-27 20:54:53 - Editor: Clic del mouse en editor
+2026-04-27 20:54:54 - Editor: Clic del mouse en editor
+2026-04-27 21:11:49 - Login: Login exitoso
+2026-04-27 21:11:50 - Editor: Cambio de lenguaje a C++
+2026-04-27 21:11:50 - Editor: Redimensionar ventana
+2026-04-27 21:11:50 - Editor: Redimensionar ventana

@@ -1,0 +1,16 @@
+release/main.o
+release/pantalla.o
+release/login.o
+release/editorprincipal.o
+release/modobloqueado.o
+release/validadorsintaxis.o
+release/validadorcpp.o
+release/validadorpython.o
+release/validadorjava.o
+release/syntaxhighlighter.o
+release/qrc_resources.o
+release/moc_pantalla.o
+release/moc_login.o
+release/moc_editorprincipal.o
+release/moc_modobloqueado.o
+release/moc_syntaxhighlighter.o

@@ -1,0 +1,16 @@
+debug/main.o
+debug/pantalla.o
+debug/login.o
+debug/editorprincipal.o
+debug/modobloqueado.o
+debug/validadorsintaxis.o
+debug/validadorcpp.o
+debug/validadorpython.o
+debug/validadorjava.o
+debug/syntaxhighlighter.o
+debug/qrc_resources.o
+debug/moc_pantalla.o
+debug/moc_login.o
+debug/moc_editorprincipal.o
+debug/moc_modobloqueado.o
+debug/moc_syntaxhighlighter.o

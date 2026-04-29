@@ -1,0 +1,1 @@
+// ValidadorSintaxis.cpp - vacío
