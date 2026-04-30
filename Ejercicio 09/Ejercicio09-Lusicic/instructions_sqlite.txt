@@ -1,0 +1,56 @@
+Instrucciones de configuración de SQLite para el proyecto Ejercicio09-Lusicic
+
+1. Abrir SQLiteStudio o una herramienta equivalente.
+2. Crear una nueva base de datos en la misma carpeta del proyecto:
+   - Nombre sugerido: ejercicio09.db
+
+3. Crear las tablas necesarias con estos comandos SQL:
+
+   CREATE TABLE IF NOT EXISTS users (
+       username TEXT PRIMARY KEY,
+       password TEXT
+   );
+
+   CREATE TABLE IF NOT EXISTS dibujos (
+       id INTEGER PRIMARY KEY AUTOINCREMENT,
+       created_at TEXT
+   );
+
+   CREATE TABLE IF NOT EXISTS coordenadas (
+       id INTEGER PRIMARY KEY AUTOINCREMENT,
+       dibujo_id INTEGER NOT NULL,
+       stroke_index INTEGER NOT NULL,
+       point_index INTEGER NOT NULL,
+       x REAL NOT NULL,
+       y REAL NOT NULL,
+       pen_width INTEGER NOT NULL,
+       color TEXT NOT NULL,
+       FOREIGN KEY(dibujo_id) REFERENCES dibujos(id)
+   );
+
+4. Insertar usuarios de prueba en la tabla users:
+
+   INSERT INTO users (username, password) VALUES ('admin', 'admin123');
+   INSERT INTO users (username, password) VALUES ('usuario', 'lusicic');
+
+5. Verificar que la conexión funciona desde la aplicación Qt:
+   - Al iniciar la aplicación se abrirá el formulario de login.
+   - Utilizar usuario: admin y contraseña: admin123
+
+6. Cómo usar la base de datos desde la aplicación:
+   - Inicie sesión con credenciales válidas.
+   - Dibuje en el lienzo con el mouse.
+   - Cambie color con las teclas R, G, B.
+   - Ajuste el grosor con la rueda del mouse.
+   - Borre el lienzo con Escape.
+   - Use Ctrl+Z para deshacer hasta 10 acciones.
+   - Presione "Guardar dibujo" para persistir los trazos en SQLite.
+   - Presione "Cargar último" para reconstruir el último dibujo guardado.
+
+7. Revisar los logs de acceso:
+   - El archivo accesos.log se genera en la carpeta de la aplicación.
+   - No almacena contraseñas, solo usuario, fecha y resultado.
+
+8. Consejos adicionales:
+   - Si desea ver la información de los trazos, explore la tabla coordenadas.
+   - Cada fila guarda una coordenada individual con color y grosor asociados.
